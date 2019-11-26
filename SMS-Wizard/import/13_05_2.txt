@@ -1,0 +1,6 @@
+Name,Email
+mipl@blr.vsnl.net.in,mipl@blr.vsnl.net.in
+simplex@bgl.vsnl.net.in,simplex@bgl.vsnl.net.in
+mktg@datanetsystemsltd.com,mktg@datanetsystemsltd.com
+fsbgp@blr.vsnl.net.in,fsbgp@blr.vsnl.net.in
+murali@fourline.com,murali@fourline.com
